@@ -181,7 +181,7 @@ public:
 	          const std::string& logfile);
 	ObjModel (const std::string& filename,
 	          std::ostream& r_logstream);
-
+	
 //
 //  Copy Constructor
 //

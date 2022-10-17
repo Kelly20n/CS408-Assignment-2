@@ -160,9 +160,11 @@
     <ClInclude Include="freeglut_ext.h" />
     <ClInclude Include="freeglut_std.h" />
     <ClInclude Include="glut.h" />
+    <ClInclude Include="Keyframe.h" />
     <ClInclude Include="Material.h" />
     <ClInclude Include="MtlLibrary.h" />
     <ClInclude Include="MtlLibraryManager.h" />
+    <ClInclude Include="Obj.h" />
     <ClInclude Include="ObjModel.h" />
     <ClInclude Include="ObjSettings.h" />
     <ClInclude Include="ObjStringParsing.h" />
@@ -186,6 +188,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="ObjLibrary-development-log.txt" />
+    <Text Include="test.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

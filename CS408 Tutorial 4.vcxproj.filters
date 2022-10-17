@@ -113,6 +113,12 @@
     <ClInclude Include="Vector3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Keyframe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Obj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Image Include="firebucket.bmp">
@@ -130,5 +136,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="ObjLibrary-development-log.txt" />
+    <Text Include="test.txt" />
   </ItemGroup>
 </Project>

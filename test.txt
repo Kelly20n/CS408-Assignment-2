@@ -1,0 +1,65 @@
+OBJECT 1 ladybug.obj
+
+OBJECT 0 ladybug.obj
+
+OBJECT 3 ladybug.obj
+
+OBJECT 4 spider.obj
+
+OBJECT 2 Ant.obj
+
+ 
+
+KEYFRAME   0   0   75   30    0    0    0    0  5.0  5.0  5.0
+
+KEYFRAME   0  90   30   25  -30    0   20    0  5.0  5.0  5.0
+
+KEYFRAME   0 150    0    0    7.5  0   30    0  5.0  5.0  5.0
+
+ 
+
+KEYFRAME   1   0   75  -15  -40    0    0    0  5.0  5.0  5.0
+
+KEYFRAME   1  60   75  -15  -40    0   40    0  5.0  5.0  5.0
+
+KEYFRAME   1 130   40  -10  -30    0   80    0  5.0  5.0  5.0
+
+KEYFRAME   1 160   10  -20  -20    0  120    0  5.0  5.0  5.0
+
+KEYFRAME   1 190    0    0    8.5  0  160    0  5.0  5.0  5.0
+
+ 
+
+KEYFRAME   2   0  -50  -35  -60    0    0   10  25.0  25.0  25.0
+
+KEYFRAME   2  60  -10  -20  -30    0    0   55  25.0  25.0  25.0
+
+KEYFRAME   2  80    0    0    6.0  0    0   70  25.0  25.0  25.0
+
+ 
+
+KEYFRAME   3   0  -50   35  -40    0    0    0  5.0  5.0  5.0
+
+KEYFRAME   3  60  -30    5  -20    0    0  160  5.0  5.0  5.0
+
+KEYFRAME   3 120    0    0    7.0  0    0    0  5.0  5.0  5.0
+
+ 
+
+KEYFRAME   4   0    0    0    0    0    0    0  6.0  6.0  6.0
+
+KEYFRAME   4  80    0    0    0    0    0    0  6.0  6.0  6.0
+
+KEYFRAME   4  90    0    0    0    0    0    0  7.0  7.0  7.0
+
+KEYFRAME   4 120    0    0    0    0    0    0  7.0  7.0  7.0
+
+KEYFRAME   4 130    0    0    0    0    0    0  8.0  8.0  8.0
+
+KEYFRAME   4 150    0    0    0    0    0    0  8.0  8.0  8.0
+
+KEYFRAME   4 160    0    0    0    0    0    0  8.5  8.5  8.5
+
+KEYFRAME   4 190    0    0    0    0    0    0  8.5  8.5  8.5
+
+KEYFRAME   4 200    0    0    0    0    0    0  9.0  9.0  9.0
